@@ -13,7 +13,8 @@ Mentor: Neela Santhosh Kumar
 Overview of the Project 
 
 PROJECT : SENTIMENT ANALYSIS USING NLP
-<img width="847" alt="image" src="https://github.com/user-attachments/assets/52535adb-3b91-4269-8a45-b323ab19b8f0" />
+![Screenshot 2024-12-19 221824](https://github.com/user-attachments/assets/f6ef7fa5-9040-44b8-8c7e-6366c60362e9)
+
 
 Natural Language Processing (NLP) 
 
